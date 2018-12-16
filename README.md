@@ -2,6 +2,7 @@
 ### Gogs
 ```
 Gogs is a painless self-hosted Git service.
+Note: install配置的应用端口为:3000
 ```
 ### Install scripts
 ```
